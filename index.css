@@ -5,7 +5,7 @@
 
 body {
     margin: 0;
-    background-color: #224870;
+    background-color: #cb8ba8;
 }
 
 .container {
@@ -18,8 +18,8 @@ body {
 .calculadora {
     display: grid;
     grid-template-columns: repeat(4, 75px);
-    grid-template-rows: 160px repeat(5, 75px);
-    background-color: #00916e;
+    grid-template-rows: 120px repeat(5, 75px);
+    background-color: #a31f8b;
     padding: 15px;
     border-radius: 32px;
     box-shadow: 15px 10px 0px 5px #00000033;
@@ -37,7 +37,7 @@ button {
 }
 
 button:active {
-    background-color: #006f54;
+    background-color: #b50a73;
 }
 
 button:focus {
